@@ -1,10 +1,10 @@
-.dg-box {
-    width: 1200px;
-    height: 760px;
-    background: url(../background-hw/img/grass-png-images-pictures-transparent-28.png) bottom / auto 150px repeat-x,
-                url(../background-hw/img/pole-zelen-trava-dom-derevya.jpg) center center / 700px auto no-repeat content-box,
-                url(../background-hw/img/lamp-png-0.png) top left / 25px auto repeat-x,
-                url(../background-hw/img/donut.png) top right / 25px auto repeat-y,
-                url(../background-hw/img/Ёжик.png) top left / 25px auto repeat-y;
+.bg-box {
+    width: 1280px;
+    height: 768px;
+    background: url(/img/grass-png-images-pictures-transparent-28.png) bottom / auto 150px repeat-x,
+                url(/img/pole-zelen-trava-dom-derevya.jpg) center center / 700px auto no-repeat content-box,
+                url(/img/lamp-png-0.png) top left / 25px auto repeat-x,
+                url(/img/donut.png) top right / 25px auto repeat-y,
+                url(/img/Ёжик.png) top left / 25px auto repeat-y;
     background-color: green;
 }
